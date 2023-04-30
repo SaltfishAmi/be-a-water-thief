@@ -70,7 +70,7 @@ mfoc -O temp.dmp
 
 to crack the current card with default configuration, and save the dump file to `temp.dmp`.
 
-The process survived shortly before running into a fatal error. I took the card away and put it on the reader again. No beeps. The reader entered the vegetable state. A web search told me that NFC card readers are extremely unstable and almost unusable. I had to use Linux to make it function correctly, and Kali Linux was the most suitable distro for this task. So I downloaded its LiveCD ISO with the desktop option, burnt it onto a DVD, and rebooted my laptop. Yeah, I still use optical drives. I'm old.
+The process survived shortly before running into a fatal error. I took the card away and put it on the reader again. No beeps. The reader entered the vegetable state. A web search told me that NFC card readers are extremely unstable and almost unusable on Windows. I had to use Linux to make it function correctly, and Kali Linux was the most suitable distro for this task. So I downloaded its LiveCD ISO with the desktop option, burnt it onto a DVD, and rebooted my laptop. Yeah, I still use optical drives. I'm old.
 
 ## Progression
 
